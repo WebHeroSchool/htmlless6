@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat|Neucha&display=swap');
+
+.body {
+	font-family: Caveat;
+}
+
+.header__title {
+	font-family: Neucha;
+}
+
+.header__title_small {
+	color: white;
+	background-color: red;
+}
+
+.header__desc {
+	font-style: italic;
+}
+
+.section__desc_italic {
+	font-style: italic;
+}
+
+.section__img {
+	float: left;
+	margin: 10px;
+}
